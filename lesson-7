@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <title></title>
+    </head>
+    <body>
+        <form action="">
+        <label for="firstname:>"Firstname:></label><br>
+        <input type="text" id="firstname" name="firstname" placeholder="firstname"><br>
+        <label for="lastname>"lastname:></label><br>
+        <input type="text" id="lastname" name="lastname" placeholder="lastname">
+        <label for="email">Email:</label><br>
+        <input type="email" id="email"> name="email" placeholder="email">
+        <label for="password">password:</label><br>
+        </form>
+
+
